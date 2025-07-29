@@ -1,0 +1,4 @@
+wave_height 0.01     m
+wave_length 1.56       m
+gravity     9.806   m/s2
+rho         1000    kg/m3

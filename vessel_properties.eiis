@@ -1,0 +1,11 @@
+LOA 1.2 m
+B   0.15 m
+D   0.1 m
+T   0.04   m
+vessel_mass 5.71 kg
+J   0.57   kg-m2
+vessel_speed    0   m/s
+angle   0   deg
+LCG 0   m(fromMS)
+Sensor1 0 m
+Sensor2 0.30   m
